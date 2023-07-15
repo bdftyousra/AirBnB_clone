@@ -1,5 +1,4 @@
-
-rt os
+import os
 import sys
 
 # Get the absolute path of the parent directory
